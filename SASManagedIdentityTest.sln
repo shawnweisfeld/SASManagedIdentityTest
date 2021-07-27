@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASManagedIdentityTest", "SASManagedIdentityTest\SASManagedIdentityTest.csproj", "{CACE3F69-C0B5-40E9-8897-1AD96F59D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACE3F69-C0B5-40E9-8897-1AD96F59D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACE3F69-C0B5-40E9-8897-1AD96F59D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACE3F69-C0B5-40E9-8897-1AD96F59D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACE3F69-C0B5-40E9-8897-1AD96F59D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADCFA1A-76B5-4D7E-A01F-AC56CCFC0A6B}
+	EndGlobalSection
+EndGlobal
